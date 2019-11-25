@@ -1,4 +1,4 @@
-# Kubernitify
+# Redis ping client
 A minimalistic client to make get requests to a redis server for a specific key
 
 # Generate Executable
